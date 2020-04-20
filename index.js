@@ -43,6 +43,7 @@ class Checker {
     getToken() {
         return { ...this.store.get('deeply.nested') };
     }
+    44444444444
     /**
      * 检查url是否被封禁
      * @param {String} req_url 检查的url
