@@ -8,6 +8,7 @@ const querystring = require('querystring');
  * @param {String} appid 在公众平台上申请得到的appid
  * @param {String} appsecret 在公众平台上申请得到的app secret
  * @param {String} path 存储access_token的路径，默认store/access_token
+ * 111111
  */
 class Checker {
     constructor(appid, appsecret, path) {
